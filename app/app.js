@@ -29,7 +29,6 @@ angular.module('App', [])
           appLoading.ready();
         });
       }
-      appLoading.ready();
     };
     $scope.search('angularjs');
   })
